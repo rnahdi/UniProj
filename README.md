@@ -15,14 +15,10 @@ It features a clean homepage, trending games section, and categorized game listi
 
 ---
 
-## 📅 Created On  
-**July 18, 2025**
 
 ## 👨‍💻 Developed By  
-**Parsa Dehghan Pour Farashah**
+**Mahdi Aali**
 
-## 🔧 Project Mentor  
-[@parsa_ghorbanian_web](https://www.instagram.com/parsa_ghorbanian_web)
 
 ---
 
@@ -34,17 +30,13 @@ It features a clean homepage, trending games section, and categorized game listi
 ---
 
 ## 🔗 Live Demo  
-[👉 Click Here to Explore the Website](https://parsa-farshah.github.io/LugsWebGame/)
+[👉 Click Here to Explore the Website](https://rnahdi.github.io/UniProj/)
 
 ---
 
 ## 📬 Contact Me
 
-- 📸 Instagram: [@parsa_dehghanpour_dv](https://www.instagram.com/parsa_dehghanpour_dv)  
-- 💼 LinkedIn: [Parsa Dehghan Pour Farashah](https://linkedin.com/in/parsa-dehghan-pour-farashah-85ab04250)  
-- 💻 GitHub: [parsa-farshah](https://github.com/parsa-farshah)  
-- 🎥 YouTube: [@FrontEndFresh](https://www.youtube.com/@FrontEndFresh)  
-- 📩 Email: parsafarashah2002@gmail.com
+- 📩 Email: ma.aali2001@gmail.com
 
 ---
 
@@ -52,19 +44,18 @@ It features a clean homepage, trending games section, and categorized game listi
 
 ### 💻 Desktop View
 <img src="assets/images/1.jpg" alt="Desktop View 1" width="100%">
-<img src="assets/images/2.jpg" alt="Desktop View 2" width="100%">
 
 ---
 
 ### 📱 Tablet View
 <img src="assets/images/3.jpg" alt="Tablet View 1" width="100%">
-<img src="assets/images/4.jpg" alt="Tablet View 2" width="100%">
+
 
 ---
 
 ### 📲 Mobile View
 <img src="assets/images/5.jpg" alt="Mobile View 1" width="100%">
-<img src="assets/images/6.jpg" alt="Mobile View 2" width="100%">
+
 
 ---
 
